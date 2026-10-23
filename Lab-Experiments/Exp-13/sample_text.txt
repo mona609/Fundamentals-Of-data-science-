@@ -1,0 +1,1 @@
+Data science is the study of data. Data scientists collect data, clean the data and analyse the data to find useful patterns. Python is a popular language for data science because Python has simple syntax and many useful libraries. A good data scientist uses Python libraries like NumPy and Pandas to analyse data, and uses Matplotlib to show the data in charts.
